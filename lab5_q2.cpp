@@ -1,4 +1,4 @@
-// program to find maximum between two numbers. 
+// program to find maximum among three numbers. 
 
 //include library
 #include<iostream>
@@ -13,7 +13,7 @@ int main()
 int a, b, c;
 
 //asking for numbers
-cout << " find maximum between two numbers." << endl;
+cout << " find maximum among three numbers." << endl;
 cout << " Enter number:" << endl;
 cin >> a >> b >> c;
 
