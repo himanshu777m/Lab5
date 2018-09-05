@@ -18,7 +18,7 @@ cout << "  Print all alphabets from a to z. - using while loop ";
 
 //loop stucture
 
-c = 097;
+c = 97;
 while (c=122){
 		
 		cout << char(c)<< endl;
