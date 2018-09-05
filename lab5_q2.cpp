@@ -2,7 +2,6 @@
 
 //include library
 #include<iostream>
-#include<cstring>                 //stringstream
 using namespace std;
 
 //including function
@@ -19,13 +18,13 @@ cin >> a >> b >> c;
 
 
 //conditional structure
-if (a > b){
-    if (a > c){
+if (a >= b){
+    if (a >= c){
        cout << a << " is maximum among " << a <<", "<< b <<", " << c << endl;
 	}
 }
-else if (b > c){	 
-    if (b > a){
+else if (b >= c){	 
+    if (b >= a){
          cout<< b << " is maximum among " << a <<", "<< b <<", "<< c << endl;
 	}
 }
