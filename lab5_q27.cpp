@@ -23,7 +23,7 @@ cin >> n;
 for (i=1; i<=n; i++){
 		s += i;
 		} 
-		cout << s << endl;
+		cout << "Sum = " << s << endl;
 
 return 0;
 }
