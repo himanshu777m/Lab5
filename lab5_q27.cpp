@@ -21,7 +21,7 @@ cin >> n;
 
 
 for (i=1; i<=n; i++){
-		s += i;
+		s += i;  //s = s + i
 		} 
 		cout << "Sum = " << s << endl;
 
